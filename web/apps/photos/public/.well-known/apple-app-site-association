@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "6Z68YJY9Q2.io.ente.frame"
+          "K3FCH6V8LW.io.ente.frame"
         ],
         "components": [
           {
@@ -19,8 +19,8 @@
   },
   "webcredentials": {
     "apps": [
-      "6Z68YJY9Q2.io.ente.frame",
-      "6Z68YJY9Q2.io.ente.auth",
+      "K3FCH6V8LW.io.ente.frame",
+      "K3FCH6V8LW.io.ente.auth",
       "2BUSYC7FN9.io.ente.frame",
       "2BUSYC7FN9.io.ente.auth"
     ]
